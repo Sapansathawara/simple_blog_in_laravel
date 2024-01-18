@@ -3,9 +3,6 @@
 
 This feature-rich Laravel blog project demonstrates best practices in web development, including a user-friendly admin panel with customizable templates, robust authentication, and comprehensive CRUD operations for posts and static pages. The frontend integration focuses on creating engaging home and post pages, complemented by SEO-friendly URL structures.
 
-
-
-
 ## Demo
 
 http://blog.meridukaan.site/
@@ -38,10 +35,6 @@ Post Slug Integration:
 - Framework: Laravel
 - Languages: Core PHP, HTML, CSS, JavaScript
 - Database: MySQL
-
-
-
-
 
 ## Installation
 
@@ -107,13 +100,13 @@ Admin Panel
 - Username: demo
 - Password: 123456
 
-## Contributing
-
-- Contributions are welcome. Fork the repository and create a pull request with proposed changes.
 ## Lessons Learned
 
 The Laravel blog project offered key lessons in designing a user-friendly admin panel, emphasizing the significance of robust authentication, and implementing CRUD operations for posts and static pages. The focus on frontend integration included creating engaging home and post pages, while incorporating SEO-friendly slugs for URLs. Overall, the experience highlighted the importance of continuous testing, thorough documentation, and collaborative development, providing valuable insights for building feature-rich web applications.
 
+## Contributing
+
+- Contributions are welcome. Fork the repository and create a pull request with proposed changes.
 
 ## Screenshots
 
