@@ -32,10 +32,10 @@ Contact List and Status:
 Home Page:
 Post Page:
 Post Slug Integration:
-- Additional Features
 
 ## Technologies Used
 
+- Framework: Laravel
 - Languages: Core PHP, HTML, CSS, JavaScript
 - Database: MySQL
 
@@ -54,7 +54,7 @@ Post Slug Integration:
 - Contributions are welcome. Fork the repository and create a pull request with proposed changes.
 ## Lessons Learned
 
-Building this e-commerce platform in PHP offered invaluable lessons. Challenges in integrating payment gateways and managing multiple vendors were overcome through detailed API understanding and structured database design. Key takeaways include the importance of planning, rigorous testing, and continuous learning to navigate complex functionalities. Adaptability and persistence were critical in overcoming hurdles and maintaining a successful development process.
+The Laravel blog project offered key lessons in designing a user-friendly admin panel, emphasizing the significance of robust authentication, and implementing CRUD operations for posts and static pages. The focus on frontend integration included creating engaging home and post pages, while incorporating SEO-friendly slugs for URLs. Overall, the experience highlighted the importance of continuous testing, thorough documentation, and collaborative development, providing valuable insights for building feature-rich web applications.
 
 
 ## Screenshots
