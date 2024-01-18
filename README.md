@@ -3,16 +3,12 @@
 
 This feature-rich Laravel blog project demonstrates best practices in web development, including a user-friendly admin panel with customizable templates, robust authentication, and comprehensive CRUD operations for posts and static pages. The frontend integration focuses on creating engaging home and post pages, complemented by SEO-friendly URL structures.
 
-## Demo
+## Technologies Used
 
-http://blog.meridukaan.site/
+- Framework: Laravel
+- Languages: Core PHP, HTML, CSS, JavaScript
+- Database: MySQL
 
-Explore our demo.
-
-Demo user:
-- URL: https://meridukaan.site/admin/login.php
-- Username: demo
-- Password: 123456
 ## Features
 
 - Admin Template Setup
@@ -29,12 +25,6 @@ Contact List and Status:
 Home Page:
 Post Page:
 Post Slug Integration:
-
-## Technologies Used
-
-- Framework: Laravel
-- Languages: Core PHP, HTML, CSS, JavaScript
-- Database: MySQL
 
 ## Installation
 
@@ -94,11 +84,6 @@ Start the Development Server
   php artisan serve
 ```
 Visit http://localhost:8000 in your browser to access the Laravel blog.
-
-Admin Panel
-- URL: https://meridukaan.site/admin/login.php
-- Username: demo
-- Password: 123456
 
 ## Lessons Learned
 
