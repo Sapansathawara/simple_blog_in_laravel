@@ -1,66 +1,80 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# Simple Blog Website in Laravel
 
-## About Laravel
+Experienced PHP developer specialized in E-commerce solutions. Proficient in crafting secure payment gateways, order management, and intuitive user interfaces. Committed to driving innovation and efficiency in E-commerce through robust PHP development.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Demo
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+http://blog.meridukaan.site/
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Explore our demo store.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Demo user:
+- URL: https://meridukaan.site/admin/login.php
+- Username: demo
+- Password: 123456
+## Features
 
-## Laravel Sponsors
+- Admin Template Setup
+- Admin Login Integration
+- Post Management
+Post List:
+Add, Update, Delete:
+Status Management:
+- Page Management
+Page List:
+Add, Update, Delete:
+Contact List and Status:
+- Frontend Integration
+Home Page:
+Post Page:
+Post Slug Integration:
+- Additional Features
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## Technologies Used
 
-### Premium Partners
+- Languages: Core PHP, HTML, CSS, JavaScript
+- Database: MySQL
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
 
+
+
+
+## Installation
+
+- Clone the repository
+- Set up a local server environment (e.g., XAMPP, WAMP)
+- Import the database file
+- Configure database settings in the project
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Contributions are welcome. Fork the repository and create a pull request with proposed changes.
+## Lessons Learned
 
-## Code of Conduct
+Building this e-commerce platform in PHP offered invaluable lessons. Challenges in integrating payment gateways and managing multiple vendors were overcome through detailed API understanding and structured database design. Key takeaways include the importance of planning, rigorous testing, and continuous learning to navigate complex functionalities. Adaptability and persistence were critical in overcoming hurdles and maintaining a successful development process.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Screenshots
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Home page
+- A gateway to stylish men's, women's fashion, and cutting-edge electronics.
+![meridukaan-site.png](https://i.postimg.cc/mrGrW8XG/meridukaan-site.png)
 
-## License
+Product Page
+- Explore a curated selection of fashion and electronic essentials.
+![meridukaan-site-categories-php-id-8.png](https://i.postimg.cc/fyjbLXJr/meridukaan-site-categories-php-id-8.png)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Product Detail Page
+- Detailed insights into fashion-forward and tech-savvy products.
+![meridukaan-site-product-php-id-28.png](https://i.postimg.cc/JzH958Q1/meridukaan-site-product-php-id-28.png)
+
+Login & Register Page
+- Secure access to your personalized shopping experience.
+![meridukaan-site-login-php.png](https://i.postimg.cc/prgB2w5Z/meridukaan-site-login-php.png)
+
+Backend Admin Panel Page
+- Efficiently manage and control the eCommerce platform's operations.
+![Screenshot-6.png](https://i.postimg.cc/HLp8xPQ9/Screenshot-6.png)
