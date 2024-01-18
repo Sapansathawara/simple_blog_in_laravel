@@ -9,6 +9,9 @@ This feature-rich Laravel blog project demonstrates best practices in web develo
 - Languages: Core PHP, HTML, CSS, JavaScript
 - Database: MySQL
 
+## Live blog website
+https://blog.meridukaan.site/
+
 ## Features
 
 - Admin Template Setup
