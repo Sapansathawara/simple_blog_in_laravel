@@ -47,7 +47,7 @@ Clone the Repository
 Navigate to the Project Directory
 
 ```bash
-  cd laravel-blog
+  cd simple_blog_in_laravel
 ```
 
 Install Dependencies
