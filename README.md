@@ -41,7 +41,7 @@ Database: Set up a MySQL, PostgreSQL, or SQLite database and note down the crede
 Clone the Repository
 
 ```bash
-  https://github.com/Sapansathawara/simple_blog_in_laravel.git
+  git clone https://github.com/Sapansathawara/simple_blog_in_laravel.git
 ```
     
 Navigate to the Project Directory
